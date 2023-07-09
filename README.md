@@ -5,10 +5,10 @@ This repository include the data and notebooks used for the second project I've 
 # The project
 ## Pepper Pink Spray
 Butterflies, flowers, and hearts. These adornments found in old teen magazines can also be easily identified on pepper spray packaging. In this report, we will investigate why pepper sprays have gender.
-[Read this story.](https://juditecypreste.com/portfolio-lede/project_1.html)
+[Read this story.](https://juditecypreste.com/portfolio-lede/project_2/project_2.html)
 
 # The files:
-1. [Getting the data][(https://github.com/juditecypreste/pepper-pink-spray/blob/main/pepper_spray_analysis.ipynb)](https://github.com/juditecypreste/pepper-pink-spray/blob/main/scrapper_mercado_livre.ipynb)
+1. [Getting the data](https://github.com/juditecypreste/pepper-pink-spray/blob/main/pepper_spray_analysis.ipynb)(https://github.com/juditecypreste/pepper-pink-spray/blob/main/scrapper_mercado_livre.ipynb)
 
 In this file, I demonstrate how I was able to scrape all the data from Pepper Spray advertisements on the Mercado Livre e-commerce platform using the Beautiful Soup library. Mercado Livre is the largest online marketplace in Brazil.
 
